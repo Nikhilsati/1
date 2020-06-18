@@ -1,0 +1,29 @@
+/* .image{
+
+    height:800px;
+    width:100%;
+    position:cover;
+
+
+} */
+.image {
+    background-image: var( --main-bg-image);
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100vh; /* You must set a specified height */
+
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+h1{
+    color:red;
+}
+.card{
+    height:500px;
+    width:50%;
+    position:absolute;
+    left:5%;
+    top:20%;
+    background-color:rgba(0, 0, 0, 0.562);
+}
+
+/* https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-plexus-technology-red-and-white-background-image_337370.jpg */

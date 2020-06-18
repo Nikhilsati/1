@@ -1,0 +1,18 @@
+.col {
+	border: solid 2px transparent;
+	height: 470px;
+	width: 100px;
+	margin-top: 5%;
+	margin-right: 4%;
+	margin-left: 4%;
+}
+.b {
+	background-image: var(--main-bg-bottom-image);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.aa {
+	border-radius: 10px;
+    width: 300px;
+    box-shadow: 10px 10px 50px rgb(231, 226, 145);
+}

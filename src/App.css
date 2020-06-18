@@ -1,0 +1,29 @@
+/* :root{
+    --main-bg-image:url("https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-plexus-technology-red-and-white-background-image_337370.jpg");
+
+     --main-bg-bottom-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNSWwTa-vA5MHM3eC8_TfI5wiy7xG2oIuuI9yeECi90Kox2uer&usqp=CAU");
+
+    --main-bg-color: red;
+
+}  */
+:root {
+	--main-bg-image: url("https://images.pexels.com/photos/3576112/pexels-photo-3576112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+	--main-bg-bottom-image: url("https://images.pexels.com/photos/459335/pexels-photo-459335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+	--main-bg-color: red;
+}
+/* :root{
+    --main-bg-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8rmZpNASfmHRdcZVWwmXXLy_me8iVJZlAKgYVrlLHS7RasLrp&usqp=CAU");
+     --main-bg-bottom-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgplkmeCo34VOGZSQp2GT03OOYnYtzS7TXMOyzno0D7A4TBuRD&usqp=CAU");
+
+    --main-bg-color: red;
+
+}
+:root{
+    --main-bg-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStDtvpl6ljpdejG9VTxLieAVCujqozKX9eVVlB2w5QLOj0TIIM&usqp=CAU");
+     --main-bg-bottom-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgplkmeCo34VOGZSQp2GT03OOYnYtzS7TXMOyzno0D7A4TBuRD&usqp=CAU");
+
+    --main-bg-color: red;
+
+} */
